@@ -227,10 +227,6 @@
 
 <br/>
 
-
-
-## 联系我
-
 进阶系列文章汇总如下，觉得不错点个 star，欢迎 **加群** 互相学习。
 
 > [https://github.com/yygmind/blog](https://github.com/yygmind/blog)
